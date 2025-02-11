@@ -6,9 +6,7 @@
     "loop": "1m",
     "grain": 0.04,
     "overlap": 0.01
-  }
-]
-[
+  },
   {
     "name": "Untitled",
     "file": "samples/audiomass-output-birds.mp3",
