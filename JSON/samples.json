@@ -10,7 +10,7 @@
 ]
 [
   {
-    "name": "birds.mp3",
+    "name": "audiomass-output-birds.mp3",
     "file": "samples/audiomass-output-birds.mp3",
     "bpm": 120,
     "loop": "1m",
