@@ -14,5 +14,13 @@
     "loop": "1m",
     "grain": 0.04,
     "overlap": 0.01
+  },
+  {
+    "name": "audiomass-output-swanlake(1).mp3",
+    "file": "samples/audiomass-output-swanlake(1).mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
   }
 ]
